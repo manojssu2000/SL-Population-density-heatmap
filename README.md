@@ -2,7 +2,7 @@
 This map uses a [Leaflet.Heat](https://github.com/Leaflet/Leaflet.heat) plugin
 to transform points into a heat layer.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 (https://manojssu2000.github.io/SL-Population-density-heatmap/)
 

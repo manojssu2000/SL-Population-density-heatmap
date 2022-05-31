@@ -5,7 +5,7 @@ to transform points into a heat layer.
 ![Screenshot](screenshot.png)
 
 ## Demo
-[https://manojssu2000..github.io/SL-Population-density-heatmap/](https://github.com/manojssu2000/SL-Population-density-heatmap/)
+(https://github.com/manojssu2000/SL-Population-density-heatmap/)
 
 Sample data by the [Metropolitan Police Service](https://data.police.uk/data/) for January–July 2020.
 

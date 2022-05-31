@@ -5,7 +5,7 @@ to transform points into a heat layer.
 ![Screenshot](screenshot.png)
 
 ## Demo
-(https://github.com/manojssu2000/SL-Population-density-heatmap/blob/main/index.html)
+(https://github.com/manojssu2000/SL-Population-density-heatmap/Sri Lanka Population Density)
 
 Sample data by the [Metropolitan Police Service](https://data.police.uk/data/) for January–July 2020.
 

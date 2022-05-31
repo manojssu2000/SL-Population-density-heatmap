@@ -90,7 +90,7 @@
 			fillColor: getColor(feature.properties.PopDensity)
 		};
 	}
-L.geoJson(slpopden, {style: style}).addTo(map);
+L.geoJson(slpopdenf, {style: style}).addTo(map);
 	function highlightFeature(e) {
 		var layer = e.target;
 
@@ -128,7 +128,7 @@ L.geoJson(slpopden, {style: style}).addTo(map);
 	}
 
 	/* global statesData */
-	geojson = L.geoJson(slpopden.js, {
+	geojson = L.geoJson(slpopdenf.js, {
 		style: style,
 		onEachFeature: onEachFeature
 	}).addTo(map);

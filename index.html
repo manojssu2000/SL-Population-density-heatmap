@@ -63,7 +63,7 @@
 	info.update = function (props) {
     this._div.innerHTML = '<h4>Sri Lanka Population Density</h4>' +  (props ?
         '<b>' + props.ADM2_EN + '</b><br />' + props.PopDensity + ' people / mi<sup>2</sup>'
-        : 'Hover over a state');
+        : 'Hover over a district');
 };
 
 	info.addTo(map);
@@ -128,7 +128,7 @@ L.geoJson(slpopdenf, {style: style}).addTo(map);
 	}
 
 	/* global statesData */
-	geojson = L.geoJson(slpopdenf.js, {
+	geojson = L.geoJson(slpopdenf, {
 		style: style,
 		onEachFeature: onEachFeature
 	}).addTo(map);

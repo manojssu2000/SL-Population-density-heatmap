@@ -61,7 +61,7 @@
 	};
 
 	info.update = function (props) {
-    this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
+    this._div.innerHTML = '<h4>Sri Lanka Population Density</h4>' +  (props ?
         '<b>' + props.ADM2_EN + '</b><br />' + props.PopDensity + ' people / mi<sup>2</sup>'
         : 'Hover over a state');
 };
@@ -133,7 +133,7 @@ L.geoJson(slpopdenf, {style: style}).addTo(map);
 		onEachFeature: onEachFeature
 	}).addTo(map);
 
-	map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
+	map.attributionControl.addAttribution('Population data &copy; ');
 
 
 	var legend = L.control({position: 'bottomright'});

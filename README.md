@@ -13,10 +13,9 @@ to transform polygons  into a density  layer.
 1. Press **Use this template** button to create a copy of this repository in your own GitHub account.
 2. Modify map's title and description inside `index.html`.
 
-
-
-
 <iframe width="1306" height="805" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQDxVaExynvHFIFaX8efy9V1-tz1nNKW5gYB0hR58AU-guG40EZLMrMjneKo3k1LGiYMca6oHXkNLNa/pubchart?oid=806647056&amp;format=interactive"></iframe>
+
+
 
 
 
